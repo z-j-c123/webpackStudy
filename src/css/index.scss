@@ -1,0 +1,13 @@
+@import "./header.scss";
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: flex;
+    transform: rotate(30deg);
+}
+body{
+    .newCon{
+        color: blue;
+    }
+}
